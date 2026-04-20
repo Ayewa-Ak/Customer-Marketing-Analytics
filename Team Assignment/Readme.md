@@ -5,7 +5,7 @@ BBS Customer & Marketing Analytics — Team Assignment 1, 2026
 
 ---
 
-## Overview
+## Overview 
 
 This project analyses a dataset of **600 sponsored social media posts** from the #RealResults campaign, run by **Pulse Digital** — a digital marketing agency based in Amsterdam. The campaign placed influencer content across Instagram and TikTok on behalf of brands in three product categories: Beauty & Skincare, Fashion & Apparel, and Tech & Gadgets.
 
